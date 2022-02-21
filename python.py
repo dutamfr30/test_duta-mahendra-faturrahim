@@ -5,3 +5,5 @@ b = 9
 print(a)
 
 print(b)
+
+print(a,b)
